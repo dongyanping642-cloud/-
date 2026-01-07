@@ -1,0 +1,7 @@
+{
+  "name": "V1.0辩才训练场 - 沉浸式思辩游戏 这版时成功的",
+  "description": "一个类似Lifeline的沉浸式辩论对战游戏，收录24位名辩手风格AI。支持文字与语音输入，配备AI专属教练实时辅助分析。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
